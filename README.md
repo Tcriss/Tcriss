@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tcriss
+- 👋 Hi, I’m Cristian Tejeda
 - 🌱 I’m currently learning Software Development
 
 <!---
