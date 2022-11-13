@@ -4,7 +4,6 @@
 
 - 🖥️ Currently learning Software Development at ITLA
 - 👨🏽‍💻 I want to become a full-stack Dev
-- 
 
 &nbsp;
 ## Languages:   
