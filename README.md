@@ -3,7 +3,7 @@
 ## About Me:  
 
 - 🖥️ Currently learning Software Development at ITLA
-- 👨🏽‍💻 I want to become a full-stack Dev
+- 👨🏽‍💻 I want to become a full-stack Web Dev
 
 &nbsp;
 ## Languages:   
