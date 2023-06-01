@@ -25,12 +25,12 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
 &nbsp;
 
 ## Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcriss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcriss" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcriss&langs_count=8" /></p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username= Tcriss&show_icons=true&theme=transparent)  -->
 
 <!---
