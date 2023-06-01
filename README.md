@@ -30,7 +30,6 @@
 ## Stats:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcriss" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcriss&langs_count=8" /></p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username= Tcriss&show_icons=true&theme=transparent)  -->
 
 <!---
