@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 &nbsp;
