@@ -1,9 +1,15 @@
 # Hey, I'm Cristian Tejeda👨🏽‍💻
 
+I simple guy who loves programming like art.
+
+I like to build projects where I feel passionate, creative and professional. I focus very much in the user experience because a love what I do.
+
 ## About Me:  
 
-- 🖥️ Currently learning Software Development at ITLA
-- 👨🏽‍💻 I want to become a full-stack Web Dev
+- 🖥️ Graduated from Software Development technologist at ITLA.
+- 👨🏽‍💻 I want to build usefull apps and sites.
+- 🧠 I encourrage people to never stop learning.
+- 🎖️ Don't loose hope when learning new things.
 
 &nbsp;
 ## Languages:   
